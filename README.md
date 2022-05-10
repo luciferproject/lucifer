@@ -2,7 +2,8 @@
 
 Copyright (c) 2014-2020 The Monero Project.   
 Portions Copyright (c) 2012-2013 The Cryptonote developers.
-**anything written or changed by the lucifer group / organization is free to use unless directly specified otherwise its all open sourced and ncr changes**
+
+- **anything written or changed by the lucifer group / organization is free to use unless directly specified otherwise its all open sourced and ncr changes**
 
 
 ## Table of Contents
